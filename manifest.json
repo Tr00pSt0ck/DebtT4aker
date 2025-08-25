@@ -2,24 +2,24 @@
   "name": "Debt Tracker",
   "short_name": "Debt Tracker",
   "description": "A professional Debt Tracker Progressive Web App",
-  "start_url": "/index.html",
+  "start_url": "https://tr00pst0ck.github.io/DebtT4aker/index.html",
   "display": "fullscreen",
   "orientation": "portrait",
   "theme_color": "#d73714",
   "background_color": "#d73714",
   "icons": [
     {
-      "src": "/icons/favicon-192x192.png",
+      "src": "https://tr00pst0ck.github.io/DebtT4aker/icons/favicon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/favicon-512x512.png",
+      "src": "https://tr00pst0ck.github.io/DebtT4aker/icons/favicon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/icons/favicon-144x144.png",
+      "src": "https://tr00pst0ck.github.io/DebtT4aker/icons/favicon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     }
