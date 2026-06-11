@@ -5,8 +5,8 @@
   "start_url": "https://tr00pst0ck.github.io/DebtT4aker/index.html",
   "display": "fullscreen",
   "orientation": "portrait",
-  "theme_color": "#d73714",
-  "background_color": "#d73714",
+  "theme_color": "#000000",
+  "background_color": "#000000",
   "icons": [
     {
       "src": "https://tr00pst0ck.github.io/DebtT4aker/icons/favicon-192x192.png",
